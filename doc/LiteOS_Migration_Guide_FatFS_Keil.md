@@ -694,7 +694,7 @@ LiteOS的默认startup汇编文件中只实现了使LiteOS内核正常运行的�
        
 	#define _VOLUMES	2  /* Number of volumes (logical drives) to be used. */
         
-	#define _CODE_PAGE	936 //支持中文简体
+	#define _CODE_PAGE	936 //支持简体中文
 	
 	#define	_MIN_SS		512
 	#define	_MAX_SS		4096 //设置setcor大小
